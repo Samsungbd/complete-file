@@ -158,6 +158,8 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-glo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exXrVlp.png" group-title="TIVIMATE (FREEMIUM)", JEEPNEY TV [SD]
 https://iptv-sniper.herokuapp.com/localtv.php?channel=76
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Sports",T sports
+https://tv.kotha.im/TSports_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="TIVIMATE (FREEMIUM)", GMA 7 [SD]
 https://iptv-sniper.herokuapp.com/localtv.php?channel=5
